@@ -1,6 +1,6 @@
 {
   "name": "nodeapps-express",
-  subdomain: "http://localhost:8080",
+  "subdomain": "http://localhost:8080",
   "author": {
     "name": "Nodejitsu Inc.",
     "email": "support@nodejitsu.com"
