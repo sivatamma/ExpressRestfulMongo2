@@ -1,0 +1,1 @@
+[ ![Codeship Status for stamma/ExpressRestfulMongo2](https://codeship.io/projects/7f3b09d0-edc6-0131-e52b-12a860ec8c56/status)](https://codeship.io/projects/26736)
